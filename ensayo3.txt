@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ffffffffffffffffff aaaaaaaaaaaaaaaaa
-=======
-ffffffffffffffffff xdddddddddddddddd
->>>>>>> linea
+git hub funciona
